@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Desiree Arthuso
+description: Arquiteta & Urbanista
+site_title: 'Desiree Arthuso'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: desireearthuso
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: desireearthuso.contato@gmail.com
+# keybase_username: abhn
+# twitter_username: abhn_
+# reddit_username: abhn
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/pp.jpeg
 
 # Google Analytics ID
-google_analytics: 
+google_analytics:
